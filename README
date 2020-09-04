@@ -1,0 +1,8 @@
+This is a simple implementation of a neural network using Numpy.
+
+In prepare_data.py a training and test data set is prepared. The current algorithm is trained to classify 3x1
+tensors where the first entry is 10. The user should feel free to use his or her own input data, and edit the
+code accordingly.
+
+In neural_network.py the neural network class and its functions is defined. The class includes functions for
+forward and backward pass, neural network training, and model evaluation.
